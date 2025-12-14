@@ -1,0 +1,51 @@
+[
+    {
+        "date": "2025-12-08 14:19",
+        "source": "DELHI",
+        "destination": "Ladakh",
+        "duration": 1.0,
+        "status": "LANDED"
+    },
+    {
+        "date": "2025-12-08 15:10",
+        "source": "DELHI",
+        "destination": "Ladakh",
+        "duration": 0.0,
+        "status": "CRASHED"
+    },
+    {
+        "date": "2025-12-09 13:15",
+        "source": "DELHI",
+        "destination": "Ladakh",
+        "duration": 1.0,
+        "status": "LANDED"
+    },
+    {
+        "date": "2025-12-09 13:28",
+        "source": "DELHI",
+        "destination": "Jaipur",
+        "duration": 0.19,
+        "status": "ABORTED"
+    },
+    {
+        "date": "2025-12-11 08:37",
+        "source": "DELHI",
+        "destination": "Mumbai",
+        "duration": 0.05,
+        "status": "ABORTED"
+    },
+    {
+        "date": "2025-12-11 08:40",
+        "source": "DELHI",
+        "destination": "Jaipur",
+        "duration": 0.01,
+        "status": "LANDED"
+    },
+    {
+        "date": "2025-12-13 14:30",
+        "source": "DELHI",
+        "destination": "Pune",
+        "duration": 1.66,
+        "status": "ABORTED"
+    }
+]
